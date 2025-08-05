@@ -1,7 +1,7 @@
 <h1 align="center">Xin chào 👋, tôi là Nguyễn Hoàng Dinh</h1>
 <h3 align="center">Một lập trình viên đến từ Việt Nam</h3>
 
-- 📫 Liên hệ: **nhdinhpc03@gmail.com**
+- 📫 Liên hệ: **nhdinh.dev03@gmail.com**
 - ⚡ Sở thích: **Ngủ và ngủ hehe**
 
 <h3 align="left">Kết nối với tôi:</h3>
