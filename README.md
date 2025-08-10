@@ -8,11 +8,8 @@
 
 ---
 
-## 🔭 Focus
-- **Front-end:** Crafting seamless user interfaces with **TypeScript**, **React**, **Angular**.
-- **Back-end:** Designing robust APIs and scalable systems using **Node.js** and **Spring** (Java).
-- **DevOps:** Containerization and basic CI/CD pipelines using **Docker** and Git/GitHub.
-- **Learning:** Currently exploring **Go** and honing **System Design** skills.
+### 👨‍💻 About Me
+I'm a passionate full‑stack developer who enjoys turning ideas into polished products. I specialise in JavaScript/TypeScript frameworks on the front‑end and API development on the back‑end. I love learning new technologies, designing clean architectures and optimising user experiences. When I'm not coding, I'm exploring system design concepts and improving my DevOps skills.
 
 ---
 
@@ -45,15 +42,6 @@
 
 ---
 
-### 📈 GitHub Activity
-<a href="https://github.com/nhdinh03">
-  <img src="https://github-readme-stats.vercel.app/api?username=nhdinh03&show_icons=true&hide_border=true" alt="GitHub stats" height="192px"/>
-</a>
-<a href="https://github.com/nhdinh03">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhdinh03&layout=compact&hide_border=true" alt="Top languages" height="192px"/>
-</a>
-
----
 
 ## 📈 GitHub Stats  
 <table>
