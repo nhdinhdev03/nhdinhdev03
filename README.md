@@ -1,7 +1,5 @@
 <!-- ===== HERO / BANNER ===== -->
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1558494949-ef010cbdcc31?q=80&w=1200&auto=format&fit=crop" alt="Banner" width="100%" />
-</p>
+
 
 <h1 align="center">👋 Hi, I'm <span style="color:#ff6600;">Nguyễn Hoàng Dinh</span></h1>
 <h3 align="center">Full-stack Developer (Front-end & Back-end) · Viet Nam</h3>
