@@ -1,26 +1,23 @@
-
-
 <h1 align="center">👋 Hi, I'm <span style="color:#ff6600;">Nguyễn Hoàng Dinh</span></h1>
-<h3 align="center">Full-stack Developer (Front-end & Back-end) · Viet Nam</h3>
+<h3 align="center">Full-stack Developer (Front-end & Back-end) · Vietnam</h3>
 
 <p align="center">
   <b>Building future-ready web products</b> — from idea to scalable production.<br/>
-  <i>Đam mê tạo ra trải nghiệm người dùng mượt mà & hệ thống bền vững.</i>
+  <i>Passionate about delivering smooth user experiences and robust, maintainable systems.</i>
 </p>
 
 ---
 
 ## 🔭 Focus
-- **Front-end:** Xây dựng UI/UX mượt mà với **TypeScript**, **React**, **Angular**.
-- **Back-end:** Thiết kế API & cơ sở dữ liệu bằng **Node.js**, **Spring**.
-- **DevOps:** Triển khai container & CI/CD cơ bản với **Docker**, **Git**.
-- **Learning:** Khám phá **Go** và **System Design**.
+- **Front-end:** Crafting seamless UI/UX with **TypeScript**, **React**, **Angular**.
+- **Back-end:** Designing APIs and database models with **Node.js**, **Spring**.
+- **DevOps:** Containerization and basic CI/CD with **Docker**, **Git**.
+- **Learning:** Exploring **Go** and **System Design**.
 
 ---
 
 ## 🛠 Tech Stack
-**Front-end**
-<br/>
+**Front-end**  
 <a href="https://react.dev"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="28"/></a>
 <a href="https://angular.io"><img src="https://angular.io/assets/images/logos/angular/angular.svg" width="28"/></a>
 <a href="https://www.typescriptlang.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="28"/></a>
@@ -28,16 +25,14 @@
 <a href="https://sass-lang.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="28"/></a>
 <a href="https://getbootstrap.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="28"/></a>
 
-**Back-end**
-<br/>
+**Back-end**  
 <a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="28"/></a>
 <a href="https://spring.io"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="28"/></a>
 <a href="https://go.dev"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="28"/></a>
 <a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="28"/></a>
 <a href="https://www.cprogramming.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="28"/></a>
 
-**Data, DevOps & Tools**
-<br/>
+**Data, DevOps & Tools**  
 <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="28"/></a>
 <a href="https://www.microsoft.com/sql-server"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="28"/></a>
 <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="28"/></a>
