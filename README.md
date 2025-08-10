@@ -1,70 +1,99 @@
-<h1 align="center">👋 Xin chào, tôi là <span style="color:#ff6600;">Nguyễn Hoàng Dinh</span></h1>
-<h3 align="center">💻 Lập trình viên Full-stack | Front-end & Back-end | Việt Nam</h3>
+<!-- ===== HERO / BANNER ===== -->
+<!-- Gợi ý: thay link bên dưới bằng banner của bạn (tông tối giản, typography rõ ràng) -->
 <p align="center">
-  🚀 Đam mê xây dựng sản phẩm công nghệ từ ý tưởng đến triển khai thực tế.<br/>
-  🌱 Luôn học hỏi và khám phá các công nghệ mới để tạo ra trải nghiệm người dùng tốt nhất.
+  <img src="https://images.unsplash.com/photo-1558494949-ef010cbdcc31?q=80&w=1200&auto=format&fit=crop" alt="Banner" width="100%" />
+</p>
+
+<h1 align="center">👋 Hi, I'm <span style="color:#ff6600;">Nguyễn Hoàng Dinh</span></h1>
+<h3 align="center">Full-stack Developer (Front-end & Back-end) · Viet Nam</h3>
+
+<p align="center">
+  <b>Building future-ready web products</b> — from idea to scalable production.
+  <br/>
+  <i>Đam mê tạo ra trải nghiệm người dùng mượt mà & hệ thống bền vững.</i>
+</p>
+
+<p align="center">
+  <a href="mailto:nhdinh.dev03@gmail.com">📧 Email</a> • 
+  <a href="https://fb.com/nhdinh03" target="_blank">Facebook</a> •
+  <a href="https://instagram.com/nhdinhdz" target="_blank">Instagram</a> •
+  <a href="https://zalo.me/0389307257" target="_blank">Zalo</a> •
+  <a href="https://discord.gg/dY9bgGcm" target="_blank">Discord</a>
+  <!-- Gợi ý: thêm LinkedIn khi có: <a href="https://www.linkedin.com/in/TODO" target="_blank">LinkedIn</a> -->
 </p>
 
 ---
 
-### 📫 Liên hệ
-- **Email:** [nhdinh.dev03@gmail.com](mailto:nhdinh.dev03@gmail.com)
-- **Sở thích:** Ngủ 😴, uống cà phê ☕, và khám phá công nghệ mới 💡
+## 🔭 Focus
+- Shipping **clean UI/UX** with robust **TypeScript/React/Angular** front-ends.
+- Designing **API & data models** with **Node.js / Spring**.
+- Containerization & basic CI for reproducible builds (**Docker**, Git).
+- Always learning; currently exploring **Go** & **system design**.
 
 ---
 
-### 🌐 Kết nối
-<p align="left">
-  <a href="https://zalo.me/0389307257" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=0m71tmRjlxEe&format=png&color=000000" alt="Zalo" width="40" height="40"/>
-  </a>
-  <a href="https://fb.com/nhdinh03" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" width="40" height="40"/>
-  </a>
-  <a href="https://instagram.com/nhdinhdz" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40" height="40"/>
-  </a>
-  <a href="https://discord.gg/dY9bgGcm" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" width="40" height="40"/>
-  </a>
-</p>
+## 🛠 Tech Stack
+**Front-end**
+<br/>
+<a href="https://react.dev"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="28"/></a>
+<a href="https://angular.io"><img src="https://angular.io/assets/images/logos/angular/angular.svg" width="28"/></a>
+<a href="https://www.typescriptlang.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="28"/></a>
+<a href="https://tailwindcss.com"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="28"/></a>
+<a href="https://sass-lang.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="28"/></a>
+<a href="https://getbootstrap.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="28"/></a>
+
+**Back-end**
+<br/>
+<a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="28"/></a>
+<a href="https://spring.io"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="28"/></a>
+<a href="https://go.dev"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="28"/></a>
+<a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="28"/></a>
+<a href="https://www.cprogramming.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="28"/></a>
+
+**Data, DevOps & Tools**
+<br/>
+<a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="28"/></a>
+<a href="https://www.microsoft.com/sql-server"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="28"/></a>
+<a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="28"/></a>
+<a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="28"/></a>
+<a href="https://www.figma.com/"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="28"/></a>
+<a href="https://www.adobe.com/products/photoshop.html"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" width="28"/></a>
+
+<sub>*Ghi chú:* nhóm theo mảng + icon đồng cỡ để mắt quét nhanh; mô tả ngắn nằm ở phần “Focus”.</sub>
 
 ---
 
-### 🛠️ Kỹ năng & Công cụ
-**Front-end:**  
-<a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40"/></a>
-<a href="https://angular.io" target="_blank"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40"/></a>
-<a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40"/></a>
-<a href="https://sass-lang.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="40"/></a>
-<a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40"/></a>
+## 🌟 Featured Projects
+> Chọn 3–4 dự án có **tác động**. Gợi ý format dưới đây.
 
-**Back-end:**  
-<a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40"/></a>
-<a href="https://spring.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="40"/></a>
-<a href="https://golang.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40"/></a>
-<a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40"/></a>
-<a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40"/></a>
+- **[TODO: Project One](#)** — *E-commerce web app*.  
+  **Stack:** React, Node.js, MySQL, Docker • **Highlights:** JWT auth, role-based access, image CDN.  
+  **Impact:** 10k+ MAU, TTFB giảm 35%, checkout error rate < 0.5%.
 
-**Database & DevOps:**  
-<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40"/></a>
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MSSQL" width="40"/></a>
-<a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40"/></a>
-<a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40"/></a>
+- **[TODO: Project Two](#)** — *Real-time dashboard*.  
+  **Stack:** Angular, NestJS, WebSocket • **Highlights:** live metrics, caching layer.  
+  **Impact:** latency giảm từ ~800ms → ~170ms.
 
-**UI/UX & Design:**  
-<a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40"/></a>
-<a href="https://www.photoshop.com/en" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40"/></a>
+- **[TODO: Project Three](#)** — *Personal profile CMS*.  
+  **Stack:** Next.js, Spring Boot • **Highlights:** ISR + REST API, CI with Docker.  
+  **Impact:** Lighthouse 95/100, deploy dưới 3 phút.
+
+<sub>*Nếu repo private, mô tả kiến trúc/nguyên tắc thiết kế vẫn hữu ích.*</sub>
 
 ---
 
-### 📊 Thống kê GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nhdinh03&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nhdinh03&layout=compact)
+## 📈 GitHub Proof of Work
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=nhdinh03&show_icons=true&hide_border=true" alt="stats"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhdinh03&layout=compact&hide_border=true" alt="top langs"/>
+    </td>
+  </tr>
+</table>
 
----
-
-### 🐍 Hoạt động GitHub
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
@@ -73,7 +102,8 @@
 
 ---
 
-<p align="center">
-  💡 <i>Luôn sẵn sàng hợp tác và trao đổi ý tưởng mới.<br/>
-  Nếu bạn quan tâm, hãy kết nối với tôi qua các kênh ở trên!</i>
-</p>
+## 🤝 Let’s Build
+I’m open to collaborating on **high-impact products** and **developer tooling**.  
+**Email:** <a href="mailto:nhdinh.dev03@gmail.com">nhdinh.dev03@gmail.com</a> · Or say hi on <a href="https://fb.com/nhdinh03" target="_blank">Facebook</a> / <a href="https://zalo.me/0389307257" target="_blank">Zalo</a>.
+
+<sub>☕ Sở thích: một ít cà phê, một ít code, và đôi khi… một chút ngủ 😴.</sub>
