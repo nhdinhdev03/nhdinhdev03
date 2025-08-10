@@ -39,7 +39,9 @@ I'm a passionate full‑stack developer who enjoys turning ideas into polished p
 
 #### Databases & DevOps
 [![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com)
-![SQL Server](https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png)
+<a href="https://www.microsoft.com/vi-vn/sql-server">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL Server" width="48" />
+</a>
 [![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com)
 [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com)
 [![Figma](https://skillicons.dev/icons?i=figma)](https://www.figma.com)
