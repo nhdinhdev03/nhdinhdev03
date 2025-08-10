@@ -57,11 +57,6 @@ I'm a passionate full‑stack developer who enjoys turning ideas into polished p
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhdinh03&layout=compact&hide_border=true" alt="Top languages" height="192px"/>
 </a>
 
-![GitHub streak](https://streak-stats.demolab.com?user=nhdinh03&hide_border=true&date_format=j%20M%5B%20Y%5D)
-
-![Metrics](https://github.com/nhdinh03/nhdinh03/blob/main/github-metrics.svg)
-
----
 
 ### 📫 Let's Connect
 [![Email](https://img.shields.io/badge/Email-%20-ff6953?style=flat&logo=gmail&logoColor=white)](mailto:nhdinh.dev03@gmail.com)
