@@ -64,7 +64,7 @@ I'm a passionate full‑stack developer who enjoys turning ideas into polished p
 [![Facebook](https://img.shields.io/badge/Facebook-%20-1877F2?style=flat&logo=facebook&logoColor=white)](https://fb.com/nhdinh03)
 [![Instagram](https://img.shields.io/badge/Instagram-%20-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/nhdinhdz)
 [![Zalo](https://img.shields.io/badge/Zalo-%20-1575F9?style=flat&logo=zalo&logoColor=white)](https://zalo.me/0389307257)
-[![Discord](https://img.shields.io/badge/Discord-%20-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/dY9bgGcm)
+[![Discord](https://img.shields.io/badge/Discord-%20-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/6UbbDqKKQN)
 
 <p align="center"><em>Always open for collaboration on impactful tech products. Let's build something amazing together!</em></p>
 
