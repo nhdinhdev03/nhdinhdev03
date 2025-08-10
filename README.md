@@ -40,7 +40,7 @@ I'm a passionate full‑stack developer who enjoys turning ideas into polished p
 #### Databases & DevOps
 [![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com)
 <a href="https://www.microsoft.com/vi-vn/sql-server">
-  <img src="https://it.wikipedia.org/wiki/File:Sql_server_logo.png" alt="SQL Server" width="48" />
+  <img src="https://upload.wikimedia.org/wikipedia/it/2/23/Sql_server_logo.png" alt="SQL Server" width="48" />
 </a>
 [![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com)
 [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com)
