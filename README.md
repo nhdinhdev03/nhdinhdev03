@@ -1,30 +1,31 @@
-
+<!-- ===== HERO / BANNER ===== -->
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1558494949-ef010cbdcc31?q=80&w=1200&auto=format&fit=crop" alt="Banner" width="100%" />
+</p>
 
 <h1 align="center">👋 Hi, I'm <span style="color:#ff6600;">Nguyễn Hoàng Dinh</span></h1>
 <h3 align="center">Full-stack Developer (Front-end & Back-end) · Viet Nam</h3>
 
 <p align="center">
-  <b>Building future-ready web products</b> — from idea to scalable production.
-  <br/>
+  <b>Building future-ready web products</b> — from idea to scalable production.<br/>
   <i>Đam mê tạo ra trải nghiệm người dùng mượt mà & hệ thống bền vững.</i>
 </p>
 
 <p align="center">
-  <a href="mailto:nhdinh.dev03@gmail.com">📧 Email</a> • 
+  <a href="mailto:nhdinh.dev03@gmail.com" target="_blank">📧 Email</a> • 
   <a href="https://fb.com/nhdinh03" target="_blank">Facebook</a> •
   <a href="https://instagram.com/nhdinhdz" target="_blank">Instagram</a> •
   <a href="https://zalo.me/0389307257" target="_blank">Zalo</a> •
   <a href="https://discord.gg/dY9bgGcm" target="_blank">Discord</a>
-  <!-- Gợi ý: thêm LinkedIn khi có: <a href="https://www.linkedin.com/in/TODO" target="_blank">LinkedIn</a> -->
 </p>
 
 ---
 
 ## 🔭 Focus
-- Shipping **clean UI/UX** with robust **TypeScript/React/Angular** front-ends.
-- Designing **API & data models** with **Node.js / Spring**.
-- Containerization & basic CI for reproducible builds (**Docker**, Git).
-- Always learning; currently exploring **Go** & **system design**.
+- **Front-end:** Xây dựng UI/UX mượt mà với **TypeScript**, **React**, **Angular**.
+- **Back-end:** Thiết kế API & cơ sở dữ liệu bằng **Node.js**, **Spring**.
+- **DevOps:** Triển khai container & CI/CD cơ bản với **Docker**, **Git**.
+- **Learning:** Khám phá **Go** và **System Design**.
 
 ---
 
@@ -55,27 +56,6 @@
 <a href="https://www.figma.com/"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="28"/></a>
 <a href="https://www.adobe.com/products/photoshop.html"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" width="28"/></a>
 
-<sub>*Ghi chú:* nhóm theo mảng + icon đồng cỡ để mắt quét nhanh; mô tả ngắn nằm ở phần “Focus”.</sub>
-
----
-
-## 🌟 Featured Projects
-> Chọn 3–4 dự án có **tác động**. Gợi ý format dưới đây.
-
-- **[TODO: Project One](#)** — *E-commerce web app*.  
-  **Stack:** React, Node.js, MySQL, Docker • **Highlights:** JWT auth, role-based access, image CDN.  
-  **Impact:** 10k+ MAU, TTFB giảm 35%, checkout error rate < 0.5%.
-
-- **[TODO: Project Two](#)** — *Real-time dashboard*.  
-  **Stack:** Angular, NestJS, WebSocket • **Highlights:** live metrics, caching layer.  
-  **Impact:** latency giảm từ ~800ms → ~170ms.
-
-- **[TODO: Project Three](#)** — *Personal profile CMS*.  
-  **Stack:** Next.js, Spring Boot • **Highlights:** ISR + REST API, CI with Docker.  
-  **Impact:** Lighthouse 95/100, deploy dưới 3 phút.
-
-<sub>*Nếu repo private, mô tả kiến trúc/nguyên tắc thiết kế vẫn hữu ích.*</sub>
-
 ---
 
 ## 📈 GitHub Proof of Work
@@ -98,8 +78,7 @@
 
 ---
 
-## 🤝 Let’s Build
-I’m open to collaborating on **high-impact products** and **developer tooling**.  
-**Email:** <a href="mailto:nhdinh.dev03@gmail.com">nhdinh.dev03@gmail.com</a> · Or say hi on <a href="https://fb.com/nhdinh03" target="_blank">Facebook</a> / <a href="https://zalo.me/0389307257" target="_blank">Zalo</a>.
-
-<sub>☕ Sở thích: một ít cà phê, một ít code, và đôi khi… một chút ngủ 😴.</sub>
+<p align="center">
+  💡 <i>Always open for collaboration on high-impact tech products.<br/>
+  <a href="mailto:nhdinh.dev03@gmail.com" target="_blank">Contact me via Email</a></i>
+</p>
