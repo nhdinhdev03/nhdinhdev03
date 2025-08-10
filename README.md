@@ -1,4 +1,3 @@
-<!-- ===== HERO / BANNER ===== -->
 
 
 <h1 align="center">👋 Hi, I'm <span style="color:#ff6600;">Nguyễn Hoàng Dinh</span></h1>
@@ -7,14 +6,6 @@
 <p align="center">
   <b>Building future-ready web products</b> — from idea to scalable production.<br/>
   <i>Đam mê tạo ra trải nghiệm người dùng mượt mà & hệ thống bền vững.</i>
-</p>
-
-<p align="center">
-  <a href="mailto:nhdinh.dev03@gmail.com" target="_blank">📧 Email</a> • 
-  <a href="https://fb.com/nhdinh03" target="_blank">Facebook</a> •
-  <a href="https://instagram.com/nhdinhdz" target="_blank">Instagram</a> •
-  <a href="https://zalo.me/0389307257" target="_blank">Zalo</a> •
-  <a href="https://discord.gg/dY9bgGcm" target="_blank">Discord</a>
 </p>
 
 ---
@@ -76,7 +67,11 @@
 
 ---
 
-<p align="center">
-  💡 <i>Always open for collaboration on high-impact tech products.<br/>
-  <a href="mailto:nhdinh.dev03@gmail.com" target="_blank">Contact me via Email</a></i>
-</p>
+## 📫 Contact
+- **Email:** [nhdinh.dev03@gmail.com](mailto:nhdinh.dev03@gmail.com)
+- **Facebook:** [fb.com/nhdinh03](https://fb.com/nhdinh03)
+- **Instagram:** [instagram.com/nhdinhdz](https://instagram.com/nhdinhdz)
+- **Zalo:** [zalo.me/0389307257](https://zalo.me/0389307257)
+- **Discord:** [discord.gg/dY9bgGcm](https://discord.gg/dY9bgGcm)
+
+<p align="center"><i>Always open for collaboration on high-impact tech products.</i></p>
