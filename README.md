@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm <span style="color:#ff6600;">Nguyễn Hoàng Dinh</span></h1>
+"<h1 align="center">👋 Hi, I'm <span style="color:#ff6600;">Nguyễn Hoàng Dinh</span></h1>
 <h3 align="center">Full-Stack Developer (Front-end & Back-end) · Vietnam</h3>
 
 <p align="center">
@@ -62,15 +62,6 @@ I'm a full-stack developer who enjoys turning ideas into polished products. I sp
       />
     </td>
   </tr>
-    <tr>
-    <td colspan="2">
-      <img
-        src="https://github-readme-activity-graph.vercel.app/graph?username=nhdinhdev03&theme=react-dark&hide_border=true"
-        alt="Contribution Graph"
-        width="100%"
-      />
-    </td>
-  </tr>
 </table>
 
 </div>
@@ -102,3 +93,4 @@ I'm a full-stack developer who enjoys turning ideas into polished products. I sp
 [![Discord](https://img.shields.io/badge/Discord-%20-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/6UbbDqKKQN)
 
 <p align="center"><em>Open to collaborating on impactful products. Let’s build something great!</em></p>
+"
