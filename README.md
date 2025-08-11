@@ -46,9 +46,7 @@ I'm a passionate full‑stack developer who enjoys turning ideas into polished p
 ## 📈 GitHub Stats  
 <table>
   <tr>
-   <td>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nhdinhdev03&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
-</td>
+
 
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhdinhdev03&layout=compact&hide_border=true" alt="Top Languages"/></td>
   </tr>
