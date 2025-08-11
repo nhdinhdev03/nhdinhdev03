@@ -78,7 +78,7 @@ I'm a full-stack developer who enjoys turning ideas into polished products. I sp
 ### 🚀 Featured Projects
 - 🔹 [Ticketez](https://github.com/nhdinhdev03/ticketez) — Ticketing app with auth, CRUD, and clean architecture.
 - 🔹 [BookWorld](https://github.com/nhdinhdev03/BookWorld) — Full-stack bookstore (Angular/Java/Spring + SQL).
-- 🔹 [Portfolio FE](https://github.com/nhdinhdev03/portfolio-fe) — Personal site with modern UI.
+- 🔹 [Portfolio FE](https://github.com/nhdinhdev03/nhdinh-profile) — Personal site with modern UI.
 
 ---
 
