@@ -44,12 +44,7 @@ I'm a passionate full‑stack developer who enjoys turning ideas into polished p
 
 
 ## 📈 GitHub Stats  
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=nhdinhdev03&show_icons=true&hide_border=true" alt="GitHub Stats"/></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhdinhdev03&layout=compact&hide_border=true" alt="Top Languages"/></td>
-  </tr>
-</table>
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
