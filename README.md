@@ -54,7 +54,6 @@ I'm a full-stack developer who enjoys turning ideas into polished products. I sp
         height="180px"
       />
     </td>
-
     <td>
       <img
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhdinhdev03&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
@@ -64,6 +63,19 @@ I'm a full-stack developer who enjoys turning ideas into polished products. I sp
     </td>
   </tr>
  
+</table>
+<table>
+ <tr>
+    <td>
+      <img
+        src="https://github-readme-activity-graph.vercel.app/graph?username=nhdinhdev03&theme=react-dark&hide_border=true"
+        alt="Contribution Graph — nhdinhdev03"
+        width="100%"
+        loading="lazy" decoding="async"
+      />
+    </td>
+  </tr>
+</div>
 </table>
 <table>
  <tr>
