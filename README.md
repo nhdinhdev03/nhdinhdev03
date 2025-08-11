@@ -47,13 +47,13 @@ I'm a full-stack developer who enjoys turning ideas into polished products. I sp
 
 <table>
   <tr>
-  <td>
-  <img
-    src="https://streak-stats.demolab.com?user=nhdinhdev03&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak Stats"
-    height="180px"
-  />
-</td>
+    <td>
+      <img
+        src="https://github-readme-streak-stats.herokuapp.com/?user=nhdinhdev03&theme=tokyonight&hide_border=true"
+        alt="GitHub Streak Stats"
+        height="180px"
+      />
+    </td>
 
     <td>
       <img
