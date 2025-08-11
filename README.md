@@ -45,39 +45,29 @@ I'm a full-stack developer who enjoys turning ideas into polished products. I sp
 ## 📈 GitHub Stats
 <div align="center">
 
-<table>
+<table align="center" style="width:100%; table-layout:fixed; border-collapse:collapse;">
   <tr>
-    <td>
-      <img
-        src="https://github-readme-streak-stats.herokuapp.com/?user=nhdinhdev03&theme=tokyonight&hide_border=true"
-        alt="GitHub Streak Stats"
-        height="180px"
-      />
-    </td>
-    <td>
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhdinhdev03&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-        alt="Top Languages"
-        height="180px"
-      />
-    </td>
-  </tr>
- 
-</table>
-
-<table>
- <tr>
-    <td>
+    <td style="width:50%; padding:0 8px; vertical-align:top;">
       <img
         src="https://github-readme-activity-graph.vercel.app/graph?username=nhdinhdev03&theme=react-dark&hide_border=true"
         alt="Contribution Graph — nhdinhdev03"
-        width="100%"
+        style="width:100%; height:180px; object-fit:contain;"
+        loading="lazy" decoding="async"
+      />
+    </td>
+    <td style="width:50%; padding:0 8px; vertical-align:top;">
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhdinhdev03&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+        alt="Top Languages"
+        style="width:100%; height:180px; object-fit:contain;"
         loading="lazy" decoding="async"
       />
     </td>
   </tr>
-</div>
 </table>
+
+
+
 <!-- Snake: nhớ fork action và đổi 'OWNER/OWNER' thành user của bạn -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nhdinhdev03/nhdinhdev03/output/github-snake-dark.svg" />
