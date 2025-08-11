@@ -55,14 +55,15 @@ I'm a full-stack developer who enjoys turning ideas into polished products. I sp
         loading="lazy" decoding="async"
       />
     </td>
-    <td style="width:50%; padding:0 8px; vertical-align:top;">
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhdinhdev03&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-        alt="Top Languages"
-        style="width:100%; height:180px; object-fit:contain;"
-        loading="lazy" decoding="async"
-      />
-    </td>
+<td style="width:50%; padding:0 8px; vertical-align:top;">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhdinhdev03&layout=compact&theme=tokyonight&hide_border=true&langs_count=12"
+    alt="Top Languages"
+    style="width:100%; height:180px; object-fit:contain;"
+    loading="lazy" decoding="async"
+  />
+</td>
+
   </tr>
 </table>
 
