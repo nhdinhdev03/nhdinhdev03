@@ -64,19 +64,7 @@ I'm a full-stack developer who enjoys turning ideas into polished products. I sp
   </tr>
  
 </table>
-<table>
- <tr>
-    <td>
-      <img
-        src="https://github-readme-activity-graph.vercel.app/graph?username=nhdinhdev03&theme=react-dark&hide_border=true"
-        alt="Contribution Graph — nhdinhdev03"
-        width="100%"
-        loading="lazy" decoding="async"
-      />
-    </td>
-  </tr>
-</div>
-</table>
+
 <table>
  <tr>
     <td>
