@@ -93,6 +93,7 @@ I'm a full-stack developer who enjoys turning ideas into polished products. I sp
 [![Email](https://img.shields.io/badge/Email-%20-ff6953?style=flat&logo=gmail&logoColor=white)](mailto:nhdinh.dev03@gmail.com)
 [![Facebook](https://img.shields.io/badge/Facebook-%20-1877F2?style=flat&logo=facebook&logoColor=white)](https://fb.com/nhdinh03)
 [![Instagram](https://img.shields.io/badge/Instagram-%20-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/nhdinhdz)
+[![TikTok](https://img.shields.io/badge/TikTok-%20-000000?style=flat&logo=tiktok&logoColor=white)](https://www.tiktok.com/@nhdinh.dev03)
 [![Discord](https://img.shields.io/badge/Discord-%20-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/6UbbDqKKQN)
 
 <p align="center"><em>Open to collaborating on impactful products. Let’s build something great!</em></p>
