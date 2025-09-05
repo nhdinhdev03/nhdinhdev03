@@ -1,5 +1,5 @@
 "<h1 align="center">👋 Hi, I'm <span style="color:#ff6600;">Nguyễn Hoàng Dinh</span></h1>
-<h3 align="center">Full-Stack Developer (Front-end & Back-end) · Vietnam</h3>
+<h3 align="center">Web Developer (Front-end & Back-end) · Vietnam</h3>
 
 <p align="center">
   <b>Building future-ready web products</b> — from concept to scalable production.<br/>
@@ -9,7 +9,7 @@
 ---
 
 ### 👨‍💻 About Me
-I'm a full-stack developer who enjoys turning ideas into polished products. I specialize in JavaScript/TypeScript on the front-end and API development on the back-end. I love learning new technologies, designing clean architectures, and optimizing user experiences. When I'm not coding, I'm exploring system design and improving DevOps skills.
+I'm a Web Developer who enjoys turning ideas into polished products. I specialize in JavaScript/TypeScript on the front-end and API development on the back-end. I love learning new technologies, designing clean architectures, and optimizing user experiences. When I'm not coding, I'm exploring system design and improving DevOps skills.
 
 ---
 
