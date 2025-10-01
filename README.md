@@ -9,7 +9,7 @@
 ---
 
 ### 👨‍💻 About Me
-I'm a web developer, Love and passionate about turning ideas into finished, unique and outstanding products. I specialize in JavaScript/TypeScript, Java, Jwt, Angular, in front-end and API development in back-end. I love to learn new technologies, design and optimize user experience, in my free time I learn about system design and improve my personal skills.
+I am a web developer, love and passion for turning ideas into finished, unique and excellent products. I do websites with, JavaScript/TypeScript, Java spring boor, Jwt, Angular, front-end development and back-end API. I love to learn new technologies, design and optimize user experience. In my spare time, I study system design and improve my personal skills.
 
 ---
 
