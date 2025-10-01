@@ -1,7 +1,10 @@
 <div align="center">
 
 <!-- Dynamic Header with Gradient Animation -->
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nguyễn%20Hoàng%20Dinh&fontSize=35&fontColor=fff&animation=twinkling&fontAlign=50&fontAlignY=40&desc=Web%20Developer%20·%20Vietnam&descAlign=50&descAlignY=60&descSize=14"/>
 
+</div>
 
 <!-- Fixed Typing Animation with Proper Parameters -->
 <p align="center">
@@ -11,7 +14,7 @@
 <!-- Professional Badge Collection with Proper Spacing -->
 <div align="center">
   <p>
-    <img src="https://img.shields.io/badge/Experience-Full%20Stack-ff6600?style=for-the-badge&logo=stackblitz&logoColor=white&labelColor=1a1a2e" />
+    <img src="https://img.shields.io/badge/Experience-Web%20Developer -ff6600?style=for-the-badge&logo=stackblitz&logoColor=white&labelColor=1a1a2e" />
     <img src="https://img.shields.io/badge/Focus-Web%20Development-00D8FF?style=for-the-badge&logo=react&logoColor=white&labelColor=16213e" />
   </p>
   <p>
