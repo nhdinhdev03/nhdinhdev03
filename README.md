@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Dynamic Header with Gradient Animation -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Nguyễn%20Hoàng%20Dinh&fontSize=40&fontColor=fff&animation=twinkling&fontAlign=50&fontAlignY=35&desc=Web%20Developer%20(Front-end%20&%20Back-end)%20·%20Vietnam&descAlign=50&descAlignY=55&descSize=16"/>
+
 
 <!-- Fixed Typing Animation with Proper Parameters -->
 <p align="center">
@@ -197,47 +197,8 @@
 
 ---
 
-<!-- GitHub Analytics Dashboard -->
-<div align="center">
-  <h2>
-    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
-    <strong>📈 GitHub Stats</strong>
-  </h2>
-</div>
 
-<div align="center">
 
-<table align="center">
-  <tr>
-    <td style="padding: 10px;">
-      <img
-        src="https://github-readme-activity-graph.vercel.app/graph?username=nhdinh1&theme=react-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FF7B72&area=true&border_radius=10"
-        alt="Contribution Graph"
-        width="100%"
-      />
-    </td>
-    <td style="padding: 10px;">
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhdinh1&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_radius=10"
-        alt="Top Languages"
-        width="100%"
-      />
-    </td>
-  </tr>
-</table>
-
-<!-- GitHub Snake Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nhdinh1/nhdinh1/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nhdinh1/nhdinh1/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/nhdinh1/nhdinh1/output/github-contribution-grid-snake-dark.svg" />
-</picture>
-
-</div>
-
----
-
-<!-- Featured Projects Showcase -->
 <div align="center">
   <h2>
     <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="35">
@@ -311,5 +272,5 @@
   <p><sub>⚡ <strong>Crafted with passion and precision</strong> ⚡</sub></p>
   <p><sub>💼 <strong>Available for freelance projects and collaboration</strong> 💼</sub></p>
   
-  <img src="https://komarev.com/ghpvc/?username=nhdinh1&style=for-the-badge&color=ff6600&labelColor=1a1a2e" alt="Profile Views"/>
+
 </div>
