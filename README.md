@@ -199,7 +199,44 @@
 </div>
 
 ---
+## 📈 GitHub Stats
+<div align="center">
 
+<table align="center" style="width:100%; table-layout:fixed; border-collapse:collapse;">
+  <tr>
+    <td style="width:50%; padding:0 8px; vertical-align:top;">
+      <img
+        src="https://github-readme-activity-graph.vercel.app/graph?username=nhdinhdev03&theme=react-dark&hide_border=true"
+        alt="Contribution Graph — nhdinhdev03"
+        style="width:100%; height:180px; object-fit:contain;"
+        loading="lazy" decoding="async"
+      />
+    </td>
+<td style="width:50%; padding:0 8px; vertical-align:top;">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhdinhdev03&layout=compact&theme=tokyonight&hide_border=true&langs_count=10"
+    alt="Top Languages"
+    style="width:100%; height:180px; object-fit:contain;"
+    loading="lazy" decoding="async"
+  />
+</td>
+
+  </tr>
+</table>
+
+
+
+<!-- Snake: nhớ fork action và đổi 'OWNER/OWNER' thành user của bạn -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nhdinhdev03/nhdinhdev03/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nhdinhdev03/nhdinhdev03/output/github-snake.svg" />
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
+</picture>
+---
 
 
 <div align="center">
