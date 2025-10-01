@@ -215,21 +215,21 @@
       <td align="center" width="33%" style="padding: 20px;">
         <h3 style="color: #ff6600;">🎫 Ticketez</h3>
         <p><em>Ticketing app with auth, CRUD, and clean architecture</em></p>
-        <a href="https://github.com/nhdinh1/ticketez">
+        <a href="https://github.com/nhdinhdev03/ticketez">
           <img src="https://img.shields.io/badge/View%20Project-ff6600?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
         </a>
       </td>
       <td align="center" width="33%" style="padding: 20px;">
         <h3 style="color: #4ECDC4;">📚 BookWorld</h3>
         <p><em>Full-stack bookstore (Angular/Java/Spring + SQL)</em></p>
-        <a href="https://github.com/nhdinh1/BookWorld">
+        <a href="https://github.com/nhdinhdev03/BookWorld">
           <img src="https://img.shields.io/badge/View%20Project-4ECDC4?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
         </a>
       </td>
       <td align="center" width="33%" style="padding: 20px;">
         <h3 style="color: #667eea;">💼 Portfolio FE</h3>
         <p><em>Personal site with modern UI</em></p>
-        <a href="https://github.com/nhdinh1/nhdinh-profile">
+        <a href="https://github.com/nhdinhdev03/nhdinh-profile">
           <img src="https://img.shields.io/badge/View%20Project-667eea?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
         </a>
       </td>
