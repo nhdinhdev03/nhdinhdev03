@@ -227,7 +227,7 @@
         </a>
       </td>
       <td align="center" width="33%" style="padding: 20px;">
-        <h3 style="color: #667eea;">💼 Portfolio FE</h3>
+        <h3 style="color: #667eea;">💼 Portfolio FE + BE</h3>
         <p><em>Personal site with modern UI</em></p>
         <a href="https://github.com/nhdinhdev03/nhdinh-profile">
           <img src="https://img.shields.io/badge/View%20Project-667eea?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
