@@ -26,7 +26,7 @@ I'm a web developer, Love and passionate about turning ideas into finished, uniq
 #### Back-End
 [![Node.js](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org)
 [![Spring](https://skillicons.dev/icons?i=spring)](https://spring.io)
-[![Go](https://skillicons.dev/icons?i=go)](https://go.dev)
+
 [![Java](https://skillicons.dev/icons?i=java)](https://www.java.com)
 [![C](https://skillicons.dev/icons?i=c)](https://en.wikipedia.org/wiki/C_(programming_language))
 
@@ -35,7 +35,7 @@ I'm a web developer, Love and passionate about turning ideas into finished, uniq
 <a href="https://www.microsoft.com/sql-server">
   <img src="https://upload.wikimedia.org/wikipedia/it/2/23/Sql_server_logo.png" alt="SQL Server" width="48" />
 </a>
-[![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com)
+
 [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com)
 [![Figma](https://skillicons.dev/icons?i=figma)](https://www.figma.com)
 [![Photoshop](https://skillicons.dev/icons?i=ps)](https://www.adobe.com/products/photoshop.html)
