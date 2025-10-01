@@ -2,7 +2,7 @@
 <h3 align="center">Web Developer (Front-end & Back-end) · Vietnam</h3>
 
 <p align="center">
-  <b>Building future-ready web products</b> — from concept to scalable production.<br/>
+  <b>Building modern web products — from concept to scalable production.<br/>
   <i>Passionate about delivering smooth user experiences and robust, maintainable systems.</i>
 </p>
 
