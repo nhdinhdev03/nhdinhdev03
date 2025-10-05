@@ -2,13 +2,13 @@
 
 <!-- Dynamic Header with Gradient Animation -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nguyễn%20Hoàng%20Dinh&fontSize=35&fontColor=fff&animation=twinkling&fontAlign=50&fontAlignY=40&desc=Web%20Developer%20·%20Vietnam&descAlign=50&descAlignY=60&descSize=14"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nguyễn%20Hoàng%20Dinh&fontSize=35&fontColor=fff&anim[...]
 
 </div>
 
 <!-- Fixed Typing Animation with Proper Parameters -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=4000&pause=1000&color=ff6600&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Building+modern+web+products+—+from+concept+to+scalable+production;Passionate+about+delivering+smooth+user+experiences+and+robust+systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/font=JetBrains+Mono&weight=600&size=20&duration=4000&pause=1000&color=ff6600&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=10[...]
 </p>
 
 <!-- Professional Badge Collection with Proper Spacing -->
@@ -67,131 +67,173 @@
   <p><em>Technologies and tools I work with</em></p>
 </div>
 
-<div align="center">
+<!-- Updated Tech Stack with Left Alignment and No Underlines -->
+<div align="left" style="margin: 0 auto; max-width: 1000px;">
   
   <!-- Frontend Technologies Card -->
-  <table>
+  <table style="width: 100%; margin-bottom: 20px;">
     <tr>
-      <th colspan="6" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 15px; font-size: 16px;">
-        <strong>🎨 FRONT-END</strong>
+      <th colspan="6" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 15px; font-size: 16px; text-align: left;">
+        <strong>🎨 FRONT-END TECHNOLOGIES</strong>
       </th>
     </tr>
     <tr>
-      <td align="center" width="16.66%" style="padding: 20px; background: #f8f9fa; border: 1px solid #e9ecef;">
-        <a href="https://react.dev">
-          <img src="https://skillicons.dev/icons?i=react" width="50"/>
-        </a>
-        <br/><strong style="color: #61dafb; font-size: 12px;">React</strong>
+      <td align="left" style="padding: 15px; background: #f8f9fa; border: 1px solid #e9ecef; width: 16.66%;">
+        <div style="display: flex; align-items: center;">
+          <img src="https://skillicons.dev/icons?i=react" width="40" style="margin-right: 12px;"/>
+          <div>
+            <strong style="color: #61dafb; font-size: 14px; display: block;">React</strong>
+            <small style="color: #666; font-size: 11px;">Frontend Library</small>
+          </div>
+        </div>
       </td>
-      <td align="center" width="16.66%" style="padding: 20px; background: #f8f9fa; border: 1px solid #e9ecef;">
-        <a href="https://angular.io">
-          <img src="https://skillicons.dev/icons?i=angular" width="50"/>
-        </a>
-        <br/><strong style="color: #dd0031; font-size: 12px;">Angular</strong>
+      <td align="left" style="padding: 15px; background: #f8f9fa; border: 1px solid #e9ecef; width: 16.66%;">
+        <div style="display: flex; align-items: center;">
+          <img src="https://skillicons.dev/icons?i=angular" width="40" style="margin-right: 12px;"/>
+          <div>
+            <strong style="color: #dd0031; font-size: 14px; display: block;">Angular</strong>
+            <small style="color: #666; font-size: 11px;">Web Framework</small>
+          </div>
+        </div>
       </td>
-      <td align="center" width="16.66%" style="padding: 20px; background: #f8f9fa; border: 1px solid #e9ecef;">
-        <a href="https://www.typescriptlang.org">
-          <img src="https://skillicons.dev/icons?i=ts" width="50"/>
-        </a>
-        <br/><strong style="color: #3178c6; font-size: 12px;">TypeScript</strong>
+      <td align="left" style="padding: 15px; background: #f8f9fa; border: 1px solid #e9ecef; width: 16.66%;">
+        <div style="display: flex; align-items: center;">
+          <img src="https://skillicons.dev/icons?i=ts" width="40" style="margin-right: 12px;"/>
+          <div>
+            <strong style="color: #3178c6; font-size: 14px; display: block;">TypeScript</strong>
+            <small style="color: #666; font-size: 11px;">Programming Language</small>
+          </div>
+        </div>
       </td>
-      <td align="center" width="16.66%" style="padding: 20px; background: #f8f9fa; border: 1px solid #e9ecef;">
-        <a href="https://tailwindcss.com">
-          <img src="https://skillicons.dev/icons?i=tailwind" width="50"/>
-        </a>
-        <br/><strong style="color: #06b6d4; font-size: 12px;">Tailwind</strong>
+      <td align="left" style="padding: 15px; background: #f8f9fa; border: 1px solid #e9ecef; width: 16.66%;">
+        <div style="display: flex; align-items: center;">
+          <img src="https://skillicons.dev/icons?i=tailwind" width="40" style="margin-right: 12px;"/>
+          <div>
+            <strong style="color: #06b6d4; font-size: 14px; display: block;">Tailwind CSS</strong>
+            <small style="color: #666; font-size: 11px;">CSS Framework</small>
+          </div>
+        </div>
       </td>
-      <td align="center" width="16.66%" style="padding: 20px; background: #f8f9fa; border: 1px solid #e9ecef;">
-        <a href="https://sass-lang.com">
-          <img src="https://skillicons.dev/icons?i=sass" width="50"/>
-        </a>
-        <br/><strong style="color: #cc6699; font-size: 12px;">Sass</strong>
+      <td align="left" style="padding: 15px; background: #f8f9fa; border: 1px solid #e9ecef; width: 16.66%;">
+        <div style="display: flex; align-items: center;">
+          <img src="https://skillicons.dev/icons?i=sass" width="40" style="margin-right: 12px;"/>
+          <div>
+            <strong style="color: #cc6699; font-size: 14px; display: block;">Sass</strong>
+            <small style="color: #666; font-size: 11px;">CSS Preprocessor</small>
+          </div>
+        </div>
       </td>
-      <td align="center" width="16.66%" style="padding: 20px; background: #f8f9fa; border: 1px solid #e9ecef;">
-        <a href="https://getbootstrap.com">
-          <img src="https://skillicons.dev/icons?i=bootstrap" width="50"/>
-        </a>
-        <br/><strong style="color: #7952b3; font-size: 12px;">Bootstrap</strong>
+      <td align="left" style="padding: 15px; background: #f8f9fa; border: 1px solid #e9ecef; width: 16.66%;">
+        <div style="display: flex; align-items: center;">
+          <img src="https://skillicons.dev/icons?i=bootstrap" width="40" style="margin-right: 12px;"/>
+          <div>
+            <strong style="color: #7952b3; font-size: 14px; display: block;">Bootstrap</strong>
+            <small style="color: #666; font-size: 11px;">UI Framework</small>
+          </div>
+        </div>
       </td>
     </tr>
   </table>
-
-  <br/>
 
   <!-- Backend Technologies Card -->
-  <table>
+  <table style="width: 100%; margin-bottom: 20px;">
     <tr>
-      <th colspan="4" style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); color: white; padding: 15px; font-size: 16px;">
-        <strong>⚙️ BACK-END</strong>
+      <th colspan="4" style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); color: white; padding: 15px; font-size: 16px; text-align: left;">
+        <strong>⚙️ BACK-END TECHNOLOGIES</strong>
       </th>
     </tr>
     <tr>
-      <td align="center" width="25%" style="padding: 20px; background: #f8f9fa; border: 1px solid #e9ecef;">
-        <a href="https://nodejs.org">
-          <img src="https://skillicons.dev/icons?i=nodejs" width="50"/>
-        </a>
-        <br/><strong style="color: #339933; font-size: 12px;">Node.js</strong>
+      <td align="left" style="padding: 15px; background: #f8f9fa; border: 1px solid #e9ecef; width: 25%;">
+        <div style="display: flex; align-items: center;">
+          <img src="https://skillicons.dev/icons?i=nodejs" width="40" style="margin-right: 12px;"/>
+          <div>
+            <strong style="color: #339933; font-size: 14px; display: block;">Node.js</strong>
+            <small style="color: #666; font-size: 11px;">Runtime Environment</small>
+          </div>
+        </div>
       </td>
-      <td align="center" width="25%" style="padding: 20px; background: #f8f9fa; border: 1px solid #e9ecef;">
-        <a href="https://spring.io">
-          <img src="https://skillicons.dev/icons?i=spring" width="50"/>
-        </a>
-        <br/><strong style="color: #6db33f; font-size: 12px;">Spring</strong>
+      <td align="left" style="padding: 15px; background: #f8f9fa; border: 1px solid #e9ecef; width: 25%;">
+        <div style="display: flex; align-items: center;">
+          <img src="https://skillicons.dev/icons?i=spring" width="40" style="margin-right: 12px;"/>
+          <div>
+            <strong style="color: #6db33f; font-size: 14px; display: block;">Spring Boot</strong>
+            <small style="color: #666; font-size: 11px;">Java Framework</small>
+          </div>
+        </div>
       </td>
-      <td align="center" width="25%" style="padding: 20px; background: #f8f9fa; border: 1px solid #e9ecef;">
-        <a href="https://www.java.com">
-          <img src="https://skillicons.dev/icons?i=java" width="50"/>
-        </a>
-        <br/><strong style="color: #f89820; font-size: 12px;">Java</strong>
+      <td align="left" style="padding: 15px; background: #f8f9fa; border: 1px solid #e9ecef; width: 25%;">
+        <div style="display: flex; align-items: center;">
+          <img src="https://skillicons.dev/icons?i=java" width="40" style="margin-right: 12px;"/>
+          <div>
+            <strong style="color: #f89820; font-size: 14px; display: block;">Java</strong>
+            <small style="color: #666; font-size: 11px;">Programming Language</small>
+          </div>
+        </div>
       </td>
-      <td align="center" width="25%" style="padding: 20px; background: #f8f9fa; border: 1px solid #e9ecef;">
-        <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
-          <img src="https://skillicons.dev/icons?i=c" width="50"/>
-        </a>
-        <br/><strong style="color: #A8B9CC; font-size: 12px;">C</strong>
+      <td align="left" style="padding: 15px; background: #f8f9fa; border: 1px solid #e9ecef; width: 25%;">
+        <div style="display: flex; align-items: center;">
+          <img src="https://skillicons.dev/icons?i=c" width="40" style="margin-right: 12px;"/>
+          <div>
+            <strong style="color: #A8B9CC; font-size: 14px; display: block;">C Language</strong>
+            <small style="color: #666; font-size: 11px;">System Programming</small>
+          </div>
+        </div>
       </td>
     </tr>
   </table>
 
-  <br/>
-
   <!-- Databases & DevOps Card -->
-  <table>
+  <table style="width: 100%; margin-bottom: 20px;">
     <tr>
-      <th colspan="5" style="background: linear-gradient(135deg, #fa709a 0%, #fee140 100%); color: white; padding: 15px; font-size: 16px;">
-        <strong>🗄️ DATABASES & TOOLS</strong>
+      <th colspan="5" style="background: linear-gradient(135deg, #fa709a 0%, #fee140 100%); color: white; padding: 15px; font-size: 16px; text-align: left;">
+        <strong>🗄️ DATABASES & DEVELOPMENT TOOLS</strong>
       </th>
     </tr>
     <tr>
-      <td align="center" width="20%" style="padding: 20px; background: #f8f9fa; border: 1px solid #e9ecef;">
-        <a href="https://www.mysql.com">
-          <img src="https://skillicons.dev/icons?i=mysql" width="50"/>
-        </a>
-        <br/><strong style="color: #4479a1; font-size: 12px;">MySQL</strong>
+      <td align="left" style="padding: 15px; background: #f8f9fa; border: 1px solid #e9ecef; width: 20%;">
+        <div style="display: flex; align-items: center;">
+          <img src="https://skillicons.dev/icons?i=mysql" width="40" style="margin-right: 12px;"/>
+          <div>
+            <strong style="color: #4479a1; font-size: 14px; display: block;">MySQL</strong>
+            <small style="color: #666; font-size: 11px;">Relational Database</small>
+          </div>
+        </div>
       </td>
-      <td align="center" width="20%" style="padding: 20px; background: #f8f9fa; border: 1px solid #e9ecef;">
-        <a href="https://www.microsoft.com/sql-server">
-          <img src="https://upload.wikimedia.org/wikipedia/it/2/23/Sql_server_logo.png" alt="SQL Server" width="48" />
-        </a>
-        <br/><strong style="color: #CC2927; font-size: 12px;">SQL Server</strong>
+      <td align="left" style="padding: 15px; background: #f8f9fa; border: 1px solid #e9ecef; width: 20%;">
+        <div style="display: flex; align-items: center;">
+          <img src="https://upload.wikimedia.org/wikipedia/it/2/23/Sql_server_logo.png" alt="SQL Server" width="38" style="margin-right: 12px;" />
+          <div>
+            <strong style="color: #CC2927; font-size: 14px; display: block;">SQL Server</strong>
+            <small style="color: #666; font-size: 11px;">Microsoft Database</small>
+          </div>
+        </div>
       </td>
-      <td align="center" width="20%" style="padding: 20px; background: #f8f9fa; border: 1px solid #e9ecef;">
-        <a href="https://git-scm.com">
-          <img src="https://skillicons.dev/icons?i=git" width="50"/>
-        </a>
-        <br/><strong style="color: #f05032; font-size: 12px;">Git</strong>
+      <td align="left" style="padding: 15px; background: #f8f9fa; border: 1px solid #e9ecef; width: 20%;">
+        <div style="display: flex; align-items: center;">
+          <img src="https://skillicons.dev/icons?i=git" width="40" style="margin-right: 12px;"/>
+          <div>
+            <strong style="color: #f05032; font-size: 14px; display: block;">Git</strong>
+            <small style="color: #666; font-size: 11px;">Version Control</small>
+          </div>
+        </div>
       </td>
-      <td align="center" width="20%" style="padding: 20px; background: #f8f9fa; border: 1px solid #e9ecef;">
-        <a href="https://www.figma.com">
-          <img src="https://skillicons.dev/icons?i=figma" width="50"/>
-        </a>
-        <br/><strong style="color: #f24e1e; font-size: 12px;">Figma</strong>
+      <td align="left" style="padding: 15px; background: #f8f9fa; border: 1px solid #e9ecef; width: 20%;">
+        <div style="display: flex; align-items: center;">
+          <img src="https://skillicons.dev/icons?i=figma" width="40" style="margin-right: 12px;"/>
+          <div>
+            <strong style="color: #f24e1e; font-size: 14px; display: block;">Figma</strong>
+            <small style="color: #666; font-size: 11px;">UI/UX Design</small>
+          </div>
+        </div>
       </td>
-      <td align="center" width="20%" style="padding: 20px; background: #f8f9fa; border: 1px solid #e9ecef;">
-        <a href="https://www.adobe.com/products/photoshop.html">
-          <img src="https://skillicons.dev/icons?i=ps" width="50"/>
-        </a>
-        <br/><strong style="color: #31a8ff; font-size: 12px;">Photoshop</strong>
+      <td align="left" style="padding: 15px; background: #f8f9fa; border: 1px solid #e9ecef; width: 20%;">
+        <div style="display: flex; align-items: center;">
+          <img src="https://skillicons.dev/icons?i=ps" width="40" style="margin-right: 12px;"/>
+          <div>
+            <strong style="color: #31a8ff; font-size: 14px; display: block;">Photoshop</strong>
+            <small style="color: #666; font-size: 11px;">Graphic Design</small>
+          </div>
+        </div>
       </td>
     </tr>
   </table>
