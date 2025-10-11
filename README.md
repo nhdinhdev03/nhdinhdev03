@@ -330,15 +330,15 @@
     <a href="mailto:nhdinh.dev03@gmail.com">
       <img src="https://img.shields.io/badge/Email-ff6953?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e" alt="Email"/>
     </a>
-    <a href="https://fb.com/nhdinh03">
+    <a href="https://fb.com/nhdinh.dev">
       <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1a1a2e" alt="Facebook"/>
     </a>
-    <a href="https://instagram.com/nhdinhdz">
+    <a href="https://instagram.com/nhdinh.dev">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1a1a2e" alt="Instagram"/>
     </a>
   </p>
   <p>
-    <a href="https://www.tiktok.com/@nhdinh.dev03">
+    <a href="https://www.tiktok.com/@nhdinh.dev">
       <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=1a1a2e" alt="TikTok"/>
     </a>
     <a href="https://discord.gg/6UbbDqKKQN">
