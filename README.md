@@ -61,7 +61,7 @@
 ---
 
 
-<!-- Technology Arsenal with Card-Based Modern Layout -->
+<!-- Technology Arsenal - VERSION 1: MODERN GRID LAYOUT (RECOMMENDED) -->
 <div align="center">
   <h2>
     <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="36">
@@ -70,180 +70,76 @@
   <p><em>Technologies and tools I work with</em></p>
 </div>
 
-<!-- Updated Tech Stack with Left Alignment and No Underlines -->
-<div align="left" style="margin: 0 auto; max-width: 1000px;">
+### 🎨 Frontend Technologies
+<div align="center">
   
-  <!-- Frontend Technologies Card -->
-  <table style="width: 100%; margin-bottom: 20px;">
-    <tr>
-      <th colspan="6" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 15px; font-size: 16px; text-align: left;">
-        <strong>🎨 FRONT-END TECHNOLOGIES</strong>
-      </th>
-    </tr>
-    <tr>
-      <td align="left" style="padding: 15px; background: #f8f9fa; border: 1px solid #e9ecef; width: 16.66%;">
-        <div style="display: flex; align-items: center;">
-          <img src="https://skillicons.dev/icons?i=react" width="40" style="margin-right: 12px;"/>
-          <div>
-            <strong style="color: #61dafb; font-size: 14px; display: block;">React</strong>
-            <small style="color: #666; font-size: 11px;">Frontend Library</small>
-          </div>
-        </div>
-      </td>
-      <td align="left" style="padding: 15px; background: #f8f9fa; border: 1px solid #e9ecef; width: 16.66%;">
-        <div style="display: flex; align-items: center;">
-          <img src="https://skillicons.dev/icons?i=angular" width="40" style="margin-right: 12px;"/>
-          <div>
-            <strong style="color: #dd0031; font-size: 14px; display: block;">Angular</strong>
-            <small style="color: #666; font-size: 11px;">Web Framework</small>
-          </div>
-        </div>
-      </td>
-      <td align="left" style="padding: 15px; background: #f8f9fa; border: 1px solid #e9ecef; width: 16.66%;">
-        <div style="display: flex; align-items: center;">
-          <img src="https://skillicons.dev/icons?i=ts" width="40" style="margin-right: 12px;"/>
-          <div>
-            <strong style="color: #3178c6; font-size: 14px; display: block;">TypeScript</strong>
-            <small style="color: #666; font-size: 11px;">Programming Language</small>
-          </div>
-        </div>
-      </td>
-      <td align="left" style="padding: 15px; background: #f8f9fa; border: 1px solid #e9ecef; width: 16.66%;">
-        <div style="display: flex; align-items: center;">
-          <img src="https://skillicons.dev/icons?i=tailwind" width="40" style="margin-right: 12px;"/>
-          <div>
-            <strong style="color: #06b6d4; font-size: 14px; display: block;">Tailwind CSS</strong>
-            <small style="color: #666; font-size: 11px;">CSS Framework</small>
-          </div>
-        </div>
-      </td>
-      <td align="left" style="padding: 15px; background: #f8f9fa; border: 1px solid #e9ecef; width: 16.66%;">
-        <div style="display: flex; align-items: center;">
-          <img src="https://skillicons.dev/icons?i=sass" width="40" style="margin-right: 12px;"/>
-          <div>
-            <strong style="color: #cc6699; font-size: 14px; display: block;">Sass</strong>
-            <small style="color: #666; font-size: 11px;">CSS Preprocessor</small>
-          </div>
-        </div>
-      </td>
-      <td align="left" style="padding: 15px; background: #f8f9fa; border: 1px solid #e9ecef; width: 16.66%;">
-        <div style="display: flex; align-items: center;">
-          <img src="https://skillicons.dev/icons?i=bootstrap" width="40" style="margin-right: 12px;"/>
-          <div>
-            <strong style="color: #7952b3; font-size: 14px; display: block;">Bootstrap</strong>
-            <small style="color: #666; font-size: 11px;">UI Framework</small>
-          </div>
-        </div>
-      </td>
-    </tr>
-  </table>
+| React | Angular | TypeScript | Tailwind CSS | Sass | Bootstrap |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=react" width="48"/> | <img src="https://skillicons.dev/icons?i=angular" width="48"/> | <img src="https://skillicons.dev/icons?i=ts" width="48"/> | <img src="https://skillicons.dev/icons?i=tailwind" width="48"/> | <img src="https://skillicons.dev/icons?i=sass" width="48"/> | <img src="https://skillicons.dev/icons?i=bootstrap" width="48"/> |
+| **React** | **Angular** | **TypeScript** | **Tailwind** | **Sass** | **Bootstrap** |
+| Frontend Library | Web Framework | Language | CSS Framework | Preprocessor | UI Framework |
 
-  <!-- Backend Technologies Card -->
-  <table style="width: 100%; margin-bottom: 20px;">
-    <tr>
-      <th colspan="4" style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); color: white; padding: 15px; font-size: 16px; text-align: left;">
-        <strong>⚙️ BACK-END TECHNOLOGIES</strong>
-      </th>
-    </tr>
-    <tr>
-      <td align="left" style="padding: 15px; background: #f8f9fa; border: 1px solid #e9ecef; width: 25%;">
-        <div style="display: flex; align-items: center;">
-          <img src="https://skillicons.dev/icons?i=nodejs" width="40" style="margin-right: 12px;"/>
-          <div>
-            <strong style="color: #339933; font-size: 14px; display: block;">Node.js</strong>
-            <small style="color: #666; font-size: 11px;">Runtime Environment</small>
-          </div>
-        </div>
-      </td>
-      <td align="left" style="padding: 15px; background: #f8f9fa; border: 1px solid #e9ecef; width: 25%;">
-        <div style="display: flex; align-items: center;">
-          <img src="https://skillicons.dev/icons?i=spring" width="40" style="margin-right: 12px;"/>
-          <div>
-            <strong style="color: #6db33f; font-size: 14px; display: block;">Spring Boot</strong>
-            <small style="color: #666; font-size: 11px;">Java Framework</small>
-          </div>
-        </div>
-      </td>
-      <td align="left" style="padding: 15px; background: #f8f9fa; border: 1px solid #e9ecef; width: 25%;">
-        <div style="display: flex; align-items: center;">
-          <img src="https://skillicons.dev/icons?i=java" width="40" style="margin-right: 12px;"/>
-          <div>
-            <strong style="color: #f89820; font-size: 14px; display: block;">Java</strong>
-            <small style="color: #666; font-size: 11px;">Programming Language</small>
-          </div>
-        </div>
-      </td>
-      <td align="left" style="padding: 15px; background: #f8f9fa; border: 1px solid #e9ecef; width: 25%;">
-        <div style="display: flex; align-items: center;">
-          <img src="https://skillicons.dev/icons?i=c" width="40" style="margin-right: 12px;"/>
-          <div>
-            <strong style="color: #A8B9CC; font-size: 14px; display: block;">C Language</strong>
-            <small style="color: #666; font-size: 11px;">System Programming</small>
-          </div>
-        </div>
-      </td>
-    </tr>
-  </table>
+</div>
 
-  <!-- Databases & DevOps Card -->
-  <table style="width: 100%; margin-bottom: 20px;">
-    <tr>
-      <th colspan="5" style="background: linear-gradient(135deg, #fa709a 0%, #fee140 100%); color: white; padding: 15px; font-size: 16px; text-align: left;">
-        <strong>🗄️ DATABASES & DEVELOPMENT TOOLS</strong>
-      </th>
-    </tr>
-    <tr>
-      <td align="left" style="padding: 15px; background: #f8f9fa; border: 1px solid #e9ecef; width: 20%;">
-        <div style="display: flex; align-items: center;">
-          <img src="https://skillicons.dev/icons?i=mysql" width="40" style="margin-right: 12px;"/>
-          <div>
-            <strong style="color: #4479a1; font-size: 14px; display: block;">MySQL</strong>
-            <small style="color: #666; font-size: 11px;">Relational Database</small>
-          </div>
-        </div>
-      </td>
-      <td align="left" style="padding: 15px; background: #f8f9fa; border: 1px solid #e9ecef; width: 20%;">
-        <div style="display: flex; align-items: center;">
-          <img src="https://upload.wikimedia.org/wikipedia/it/2/23/Sql_server_logo.png" alt="SQL Server" width="38" style="margin-right: 12px;" />
-          <div>
-            <strong style="color: #CC2927; font-size: 14px; display: block;">SQL Server</strong>
-            <small style="color: #666; font-size: 11px;">Microsoft Database</small>
-          </div>
-        </div>
-      </td>
-      <td align="left" style="padding: 15px; background: #f8f9fa; border: 1px solid #e9ecef; width: 20%;">
-        <div style="display: flex; align-items: center;">
-          <img src="https://skillicons.dev/icons?i=git" width="40" style="margin-right: 12px;"/>
-          <div>
-            <strong style="color: #f05032; font-size: 14px; display: block;">Git</strong>
-            <small style="color: #666; font-size: 11px;">Version Control</small>
-          </div>
-        </div>
-      </td>
-      <td align="left" style="padding: 15px; background: #f8f9fa; border: 1px solid #e9ecef; width: 20%;">
-        <div style="display: flex; align-items: center;">
-          <img src="https://skillicons.dev/icons?i=figma" width="40" style="margin-right: 12px;"/>
-          <div>
-            <strong style="color: #f24e1e; font-size: 14px; display: block;">Figma</strong>
-            <small style="color: #666; font-size: 11px;">UI/UX Design</small>
-          </div>
-        </div>
-      </td>
-      <td align="left" style="padding: 15px; background: #f8f9fa; border: 1px solid #e9ecef; width: 20%;">
-        <div style="display: flex; align-items: center;">
-          <img src="https://skillicons.dev/icons?i=ps" width="40" style="margin-right: 12px;"/>
-          <div>
-            <strong style="color: #31a8ff; font-size: 14px; display: block;">Photoshop</strong>
-            <small style="color: #666; font-size: 11px;">Graphic Design</small>
-          </div>
-        </div>
-      </td>
-    </tr>
-  </table>
+### ⚙️ Backend Technologies
+<div align="center">
+
+| Node.js | Spring Boot | Java | C Language |
+|:---:|:---:|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=nodejs" width="48"/> | <img src="https://skillicons.dev/icons?i=spring" width="48"/> | <img src="https://skillicons.dev/icons?i=java" width="48"/> | <img src="https://skillicons.dev/icons?i=c" width="48"/> |
+| **Node.js** | **Spring Boot** | **Java** | **C Language** |
+| Runtime Environment | Java Framework | Programming Language | System Programming |
+
+</div>
+
+### 🗄️ Databases & Development Tools
+<div align="center">
+
+| MySQL | SQL Server | Git | Figma | Photoshop |
+|:---:|:---:|:---:|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=mysql" width="48"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Sql_data_base_with_logo.svg/1200px-Sql_data_base_with_logo.svg.png" width="48"/> | <img src="https://skillicons.dev/icons?i=git" width="48"/> | <img src="https://skillicons.dev/icons?i=figma" width="48"/> | <img src="https://skillicons.dev/icons?i=ps" width="48"/> |
+| **MySQL** | **SQL Server** | **Git** | **Figma** | **Photoshop** |
+| Relational DB | Microsoft DB | Version Control | UI/UX Design | Graphic Design |
 
 </div>
 
 ---
+
+<!-- ALTERNATIVE VERSION 2: BADGE COLLECTION STYLE -->
+<!--
+<div align="center">
+  <h2>
+    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="36">
+    <strong>🛠 Tech Stack</strong>
+  </h2>
+</div>
+
+#### 🎨 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+#### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+#### 🗄️ Database & Tools
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white)
+
+
+
+
+
+
 ## 📈 GitHub Stats
 <div align="center">
 
