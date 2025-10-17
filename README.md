@@ -180,9 +180,10 @@
 ---
 
 
+<!-- Featured Projects -->
 <div align="center">
   <h2>
-    <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="35">
+    <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="35" alt="Projects"/>
     <strong>🚀 Featured Projects</strong>
   </h2>
 </div>
@@ -190,24 +191,27 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="33%" style="padding: 20px;">
-        <h3 style="color: #ff6600;">🎫 Ticketez</h3>
-        <p><em>Ticketing app with auth, CRUD, and clean architecture</em></p>
-        <a href="https://github.com/nhdinhdev03/ticketez">
+      <td align="center" width="33%">
+        <h3>🎫 Ticketez</h3>
+        <p><em>Movie ticket booking system with authentication, CRUD operations, and clean architecture</em></p>
+        <p><strong>Tech:</strong> Angular • Spring Boot • MySQL</p>
+        <a href="https://github.com/nhdinh1/ticketez">
           <img src="https://img.shields.io/badge/View%20Project-ff6600?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
         </a>
       </td>
-      <td align="center" width="33%" style="padding: 20px;">
-        <h3 style="color: #4ECDC4;">📚 BookWorld</h3>
-        <p><em>Full-stack bookstore (Angular/Java/Spring + SQL)</em></p>
-        <a href="https://github.com/nhdinhdev03/BookWorld">
+      <td align="center" width="33%">
+        <h3>📚 BookWorld</h3>
+        <p><em>Full-stack online bookstore with shopping cart and payment integration</em></p>
+        <p><strong>Tech:</strong> Angular • Java • Spring Boot • SQL</p>
+        <a href="https://github.com/nhdinh1/BookWorld">
           <img src="https://img.shields.io/badge/View%20Project-4ECDC4?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
         </a>
       </td>
-      <td align="center" width="33%" style="padding: 20px;">
-        <h3 style="color: #667eea;">💼 Portfolio FE + BE</h3>
-        <p><em>Personal site with modern UI</em></p>
-        <a href="https://github.com/nhdinhdev03/nhdinh-profile">
+      <td align="center" width="33%">
+        <h3>💼 Portfolio</h3>
+        <p><em>Personal portfolio website with modern UI/UX and responsive design</em></p>
+        <p><strong>Tech:</strong> React • TypeScript • Tailwind CSS</p>
+        <a href="https://github.com/nhdinh1/nhdinh-profile">
           <img src="https://img.shields.io/badge/View%20Project-667eea?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
         </a>
       </td>
@@ -220,38 +224,39 @@
 <!-- Connect Section -->
 <div align="center">
   <h2>
-    <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35">
+    <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35" alt="Connect"/>
     <strong>📫 Let's Connect</strong>
   </h2>
-  <p><em>Open to collaborating on impactful products. Let's build something great!</em></p>
+  <p><em>Open to collaborating on impactful projects. Let's build something amazing together!</em></p>
   
   <p>
     <a href="mailto:nhdinh.dev03@gmail.com">
-      <img src="https://img.shields.io/badge/Email-ff6953?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e" alt="Email"/>
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
     <a href="https://fb.com/nhdinh.dev">
-      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1a1a2e" alt="Facebook"/>
+      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
     </a>
     <a href="https://instagram.com/nhdinh.dev">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1a1a2e" alt="Instagram"/>
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
     </a>
-  </p>
-  <p>
     <a href="https://www.tiktok.com/@nhdinh.dev">
-      <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=1a1a2e" alt="TikTok"/>
+      <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
     </a>
     <a href="https://discord.gg/6UbbDqKKQN">
-      <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=1a1a2e" alt="Discord"/>
+      <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
     </a>
   </p>
 </div>
 
+---
+
 <!-- Footer -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" alt="Footer"/>
   
-  <p><sub>⚡ <strong>Crafted with passion and precision</strong> ⚡</sub></p>
-  <p><sub>💼 <strong>Available for freelance projects and collaboration</strong> 💼</sub></p>
+  <p><strong>⚡ Crafted with passion and precision ⚡</strong></p>
+  <p><em>💼 Open to freelance projects and collaboration opportunities 💼</em></p>
+  <p><sub>Last Updated: October 2025</sub></p>
   
 
 </div>
