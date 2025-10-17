@@ -7,6 +7,7 @@
 </div>
 
 
+
 <!-- Fixed Typing Animation with Proper Parameters -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/font=JetBrains+Mono&weight=600&size=20&duration=4000&pause=1000&color=ff6600&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=10[...]
