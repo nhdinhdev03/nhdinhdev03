@@ -1,40 +1,40 @@
 <div align="center">
 
 <!-- Dynamic Header with Gradient Animation -->
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nguyễn%20Hoàng%20Dinh&fontSize=35&fontColor=fff&anim[...]
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nguyễn%20Hoàng%20Dinh&fontSize=35&fontColor=fff&animation=fadeIn&fontAlignY=35" alt="Header"/>
 
-</div>
-
-
-
-<!-- Fixed Typing Animation with Proper Parameters -->
+<!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/font=JetBrains+Mono&weight=600&size=20&duration=4000&pause=1000&color=ff6600&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=10[...]
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=4000&pause=1000&color=FF6600&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Web+Developer+%7C+Digital+Product+Engineer;Specialized+in+Full-Stack+Development;Always+Learning+%7C+Always+Building" alt="Typing Animation"/>
 </p>
 
-<!-- Professional Badge Collection with Proper Spacing -->
+<!-- Professional Badge Collection -->
 <div align="center">
   <p>
-    <img src="https://img.shields.io/badge/Experience-Web%20Developer -ff6600?style=for-the-badge&logo=stackblitz&logoColor=white&labelColor=1a1a2e" />
-    <img src="https://img.shields.io/badge/Focus-Web%20Development-00D8FF?style=for-the-badge&logo=react&logoColor=white&labelColor=16213e" />
+    <img src="https://img.shields.io/badge/Experience-Web%20Developer-ff6600?style=for-the-badge&logo=stackblitz&logoColor=white&labelColor=1a1a2e" alt="Experience"/>
+    <img src="https://img.shields.io/badge/Focus-Full%20Stack-00D8FF?style=for-the-badge&logo=react&logoColor=white&labelColor=16213e" alt="Focus"/>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Location-Vietnam%20🇻🇳-FF6B6B?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0f3460" />
-    <img src="https://img.shields.io/badge/Status-Available%20for%20Projects-4ECDC4?style=for-the-badge&logo=checkmarx&logoColor=white&labelColor=1a1a2e" />
+    <img src="https://img.shields.io/badge/Location-Vietnam%20🇻🇳-FF6B6B?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0f3460" alt="Location"/>
+    <img src="https://img.shields.io/badge/Status-Open%20to%20Work-4ECDC4?style=for-the-badge&logo=checkmarx&logoColor=white&labelColor=1a1a2e" alt="Status"/>
   </p>
 </div>
+
+<!-- View Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nhdinh1&label=Profile%20Views&color=ff6600&style=for-the-badge" alt="Profile Views"/>
+</p>
 
 </div>
 
 ---
 
-<!-- About Section with Modern Cards -->
+<!-- About Section -->
 <div align="center">
   <h2>
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="Wave"/>
     <strong>👨‍💻 About Me</strong>
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="Wave"/>
   </h2>
 </div>
 
@@ -42,16 +42,17 @@
   <table>
     <tr>
       <td align="center" width="50%">
-        <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400"/>
+        <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400" alt="Coding GIF"/>
       </td>
       <td align="left" width="50%">
         <h3>🚀 Web Developer & Digital Product Engineer</h3>
         <p><em>Turning ideas into finished, unique and excellent products</em></p>
         <ul>
-          <li>💻 <strong>Specialized in:</strong> JavaScript/TypeScript, Java Spring Boot, JWT, Angular</li>
-          <li>🎯 <strong>Focus Areas:</strong> Frontend Development & Backend API</li>
-          <li>📚 <strong>Continuous Learning:</strong> New technologies, design and user experience optimization</li>
-          <li>⚡ <strong>Personal Growth:</strong> System design and skill enhancement</li>
+          <li>💻 <strong>Specialized in:</strong> TypeScript, Java Spring Boot, Angular, React</li>
+          <li>🎯 <strong>Focus Areas:</strong> Full-Stack Development & API Design</li>
+          <li>📚 <strong>Continuous Learning:</strong> Cloud Architecture, Microservices, DevOps</li>
+          <li>🔧 <strong>Currently Working On:</strong> Scalable web applications</li>
+          <li>⚡ <strong>Fun Fact:</strong> I debug with console.log() like a pro</li>
         </ul>
       </td>
     </tr>
@@ -59,7 +60,6 @@
 </div>
 
 ---
-
 
 <!-- Technology Arsenal - VERSION 1: MODERN GRID LAYOUT (RECOMMENDED) -->
 <div align="center">
