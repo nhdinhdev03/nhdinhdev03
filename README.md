@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Dynamic Header with Gradient Animation -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nguyễn%20Hoàng%20Dinh&fontSize=35&fontColor=fff&animation=fadeIn&fontAlignY=35" alt="Header"/>
+<!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nguyễn%20Hoàng%20Dinh&fontSize=35&fontColor=fff&animation=fadeIn&fontAlignY=35" alt="Header"/> -->
 
 <!-- Typing Animation -->
 <p align="center">
